@@ -115,3 +115,6 @@ if (egret.Capabilities.runtimeType == egret.RuntimeType.WXGAME) {
 
 ![](./p2.png)
 上图为微信小游戏环境下，资源使用版本控制后的加载效果
+
+
+来源：https://github.com/egret-labs/egret-docs/blob/master/extension/RES/RESVersion/README.md
